@@ -25,8 +25,9 @@ The course covers a range of topics, including the history of life, major transi
 
 Optional textbooks:
 
-**•** Evolution by Carl Bergstrom and Lee Dugatkin
+**•** Evolution by Carl Bergstrom and Lee Dugatkin  
 **•** Evolutionary Analysis by Jon Herron and Scott Freeman
+
 
 **•** **Communicating Biological Research** (BIOS 4460)
 
