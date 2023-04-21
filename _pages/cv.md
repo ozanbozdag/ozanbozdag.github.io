@@ -21,6 +21,6 @@ Work experience
 Education
 ======
 * Post-doc, Experimental Evolution, Georgia Institute of Technology (Atlanta), 2019 (with [Will Ratcliff](https://ratclifflab.biosci.gatech.edu/about-the-pi/))
-* Ph.D, Evolutionary Genetics, Max Planck Institute for Evolutionary Biology (Plön), 2016 (with [Duncan Greig] (https://www.ucl.ac.uk/biosciences/people/dr-duncan-greig))
+* Ph.D, Evolutionary Genetics, Max Planck Institute for Evolutionary Biology (Plön), 2016 (with [Duncan Greig](https://www.ucl.ac.uk/biosciences/people/dr-duncan-greig))
 * M.S., Molecular Biology and Genetics, Izmir Institute of Technology (Izmir), 2010
 * B.S., Biochemistry, Ege University (Izmir), 2007
