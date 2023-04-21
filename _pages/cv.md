@@ -16,7 +16,7 @@ CV can be found here.
 Work experience
 ======
 * Research Faculty, Georgia Institute of Technology (Atlanta), 2020-now 
-* Research/Teaching ASsistant, Izmir Institute of Technology (Izmir), 2008-2011
+* Research/Teaching Assistant, Izmir Institute of Technology (Izmir), 2008-2011
 
 Education
 ======
