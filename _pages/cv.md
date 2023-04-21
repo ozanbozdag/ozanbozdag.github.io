@@ -9,51 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Full
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+can be found here.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Faculty, Georgia Institute of Technology (Atlanta), 2020-now 
+* Research/Teaching ASsistant, Izmir Institute of Technology (Izmir), 2008-2011
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Post-doc, Experimental Evolution, Georgia Institute of Technology (Atlanta), 2019 (with [Will Ratcliff](https://ratclifflab.biosci.gatech.edu/about-the-pi/))
+* Ph.D, Evolutionary Genetics, Max Planck Institute for Evolutionary Biology (Plön), 2016 (with [Duncan Greig] (https://www.ucl.ac.uk/biosciences/people/dr-duncan-greig))
+* M.S., Molecular Biology and Genetics, Izmir Institute of Technology (Izmir), 2010
+* B.S., Biochemistry, Ege University (Izmir), 2007
