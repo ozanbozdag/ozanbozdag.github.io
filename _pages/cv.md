@@ -11,7 +11,7 @@ redirect_from:
 
 Full
 ======
-can be found here.
+CV can be found here.
 
 Work experience
 ======
