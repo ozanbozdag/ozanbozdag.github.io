@@ -13,11 +13,15 @@ One of my main focuses is a long-term evolution experiment that examines the tra
 
 Additionally, I explore the genetic mechanisms of reproductive isolation in yeast to better understand how species originate and are maintained. By dissolving the reproductive barrier between two yeast species, I was able to increase their gamete survival from less than 1% to 32%, allowing yeast geneticists to generate viable hybrid crosses across yeast species with similar genetic features. These advancements hold great scientific and commercial value for the field.
 
-**Press coverage**
+**Press coverage about our work**
 
-  •	Science Daily: <br />
-[Did Earth's early rise in oxygen help multicellular life evolve?](https://www.sciencedaily.com/releases/2021/05/210518205459.htm) <br />
+• The Atlantic: <br />
+[One of evolution's biggest moments was re-created in a year](https://www.theatlantic.com/science/archive/2023/05/multicellular-organism-evolution-yeast-experiment/674030/) <br />
   •	National Geographic: <br />
 [Evolving globs of yeast may unlock mysteries of multicellular life](https://www.nationalgeographic.co.uk/science-and-technology/2021/09/evolving-globs-of-yeast-may-unlock-mysteries-of-multicellular-life) <br />
+  • The New York Times: <br />
+[An experiment repeated 600 times finds hints to evolution's secrets](https://www.nytimes.com/2023/05/10/science/yeast-evolution-cells-snowflakes.html) <br />
+  • Science Daily: <br />
+[Did Earth's early rise in oxygen help multicellular life evolve?](https://www.sciencedaily.com/releases/2021/05/210518205459.htm) <br />
   •	Quanta Magazine: <br />
 [Single cells Evolve large multicellular forms in just two years](https://www.quantamagazine.org/single-cells-evolve-large-multicellular-forms-in-just-two-years-20210922/)
