@@ -38,4 +38,3 @@ permalink: /publications/
 **•**	Atik, AE, **Bozdag, GO**, Akinci, E, Kaya, A, Koç, A, Yalcin, T. and Karakaya, HÇ. [Proteomic changes during boron tolerance in barley (Hordeum vulgare) and the role of vacuolar proton-translocating ATPase subunit E.](https://doi.org/10.3906/bot-1007-29 ) Turkish Journal of Botany (2011) 
 
 **•**	**Bozdag GO**, Uluisik I, Gulculer GS, Karakaya HC, Koc A. [Roles of ATR1 paralogs YMR279c and YOR378w in boron stress tolerance.](doi.org/10.1016/j.bbrc.2011.05.080) Biochem Biophys Res Commun (2011)
-
