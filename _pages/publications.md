@@ -15,7 +15,7 @@ permalink: /publications/
   {% include archive-single.html %}
 {% endfor %}
 
-**•** **Bozdag GO**, et al. [De novo evolution of macroscopic multicellularity.](doi.org/10.1038/s41586-023-06052-1) Nature (2023)
+**•** **Bozdag GO**, et al. [De novo evolution of macroscopic multicellularity.](https://doi.org/10.1038/s41586-023-06052-1) Nature (2023)
 
 **•**	**Bozdag GO** and Ono J. [Evolution and Molecular Basis of Reproductive Isolation.](https://doi.org/10.1016/j.gde.2022.101952) Current Opinion in Genetics & Development (2022)
 
