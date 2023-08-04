@@ -11,7 +11,7 @@ I am an evolutionary geneticist who combines experimental and computational meth
 
 One of my main focuses is a long-term evolution experiment that examines the transition to multicellularity, inspired by Richard Lenski's [LTEE](https://the-ltee.org/national-geographic-evolving-globs-of-yeast-may-unlock-mysteries-of-multicellular-life/) with bacteria. I'm studying this using the 'snowflake' yeast, a simple model of nascent multicellularity. Through my post-doctoral research, I was able to uncover the role of oxygen in the evolution of multicellular size, allowing me to develop a multicellular long-term evolution experiment (MuLTEE). My ultimate goal is to run this experiment for years, monitoring how macroscopic multicellularity affects the fitness, genome, transcriptome, phenotype, and life cycle of both individual cells and multicellular groups.
 
-Additionally, I explore the genetic mechanisms of reproductive isolation in yeast to better understand how species originate and are maintained. By dissolving the reproductive barrier between two yeast species, I was able to increase their gamete survival from less than 1% to 32%, allowing yeast geneticists to generate viable hybrid crosses across yeast species with similar genetic features. These advancements hold great scientific and commercial value for the field.
+Additionally, I explore the genetic mechanisms of reproductive isolation in yeast to better understand how species originate and are maintained. By dissolving the reproductive barrier between two yeast species, I was able to increase their gamete survival from less than 1% to 32%, allowing yeast geneticists to generate viable hybrid crosses across yeast species with similar genetic features.
 
 **Press coverage about our work**
 
