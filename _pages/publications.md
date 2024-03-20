@@ -19,7 +19,7 @@ permalink: /publications/
 
 **•** Pineau RM, Libby E, Demory D. et al., **Bozdag GO** & Ratcliff WC. [Emergence and maintenance of stable coexistence during a long-term multicellular evolution experiment.](https://doi.org/10.1038/s41559-024-02367-y) Nature Ecology & Evolution (2024)
 
-**•** Montrose K, Lac DT, Burnetti AJ, Tong K, **Bozdag GO**, Hukkanen M, Ratcliff WC, Saarikangas J. [Proteostatic tuning underpins the evolution of novel multicellular traits.](DOI: 10.1126/sciadv.adn2706) Science Advances (2024)
+**•** Montrose K, Lac DT, Burnetti AJ, Tong K, **Bozdag GO**, Hukkanen M, Ratcliff WC, Saarikangas J. [Proteostatic tuning underpins the evolution of novel multicellular traits.](https://doi.org/10.1126/sciadv.adn2706) Science Advances (2024)
 
 **•** Day, TC, Zamani A, **Bozdag GO**, Burnetti AJ, Bingham EP, Conlin PL, Ratcliff WC, & Yunker PJ. [Morphological Entanglement in Living Systems.](https://doi.org/10.1103/PhysRevX.14.011008) Physical Review X (2024)
 
