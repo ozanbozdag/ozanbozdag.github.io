@@ -15,6 +15,14 @@ permalink: /publications/
   {% include archive-single.html %}
 {% endfor %}
 
+**•** **Bozdag GO**, Szeinbaum N, Conlin PL. et al. [Major Biological Innovationsin the History of Life on Earth.](https://doi.org/10.1089/ast.2021.0119) Astrobiology (2024)
+
+**•** Pineau RM, Libby E, Demory D. et al., **Bozdag GO** & Ratcliff WC. [Emergence and maintenance of stable coexistence during a long-term multicellular evolution experiment.](https://doi.org/10.1038/s41559-024-02367-y) Nature Ecology & Evolution (2024)
+
+**•** Montrose K, Lac DT, Burnetti AJ, Tong K, **Bozdag GO**, Hukkanen M, Ratcliff WC, Saarikangas J. [Proteostatic tuning underpins the evolution of novel multicellular traits.](DOI: 10.1126/sciadv.adn2706) Science Advances (2024)
+
+**•** Day, TC, Zamani A, **Bozdag GO**, Burnetti AJ, Bingham EP, Conlin PL, Ratcliff WC, & Yunker PJ. [Morphological Entanglement in Living Systems.](https://doi.org/10.1103/PhysRevX.14.011008) Physical Review X (2024)
+
 **•** **Bozdag GO**, et al. [De novo evolution of macroscopic multicellularity.](https://doi.org/10.1038/s41586-023-06052-1) Nature (2023)
 
 **•**	**Bozdag GO** and Ono J. [Evolution and Molecular Basis of Reproductive Isolation.](https://doi.org/10.1016/j.gde.2022.101952) Current Opinion in Genetics & Development (2022)
@@ -25,7 +33,7 @@ permalink: /publications/
 
 **•**	**Bozdag GO**, Ono J, Denton J, Karakoc E, Hunter N, Leu JY, and Greig D. [Breaking a species barrier by enabling hybrid recombination.](https://doi.org/10.1016/j.cub.2020.12.038) Current Biology (2021) 
 
-**•**	Pentz, JT, Márquez-Zacarías, P, **Bozdag, GO**, Burnetti, A, Yunker, PJ, Libby, E, & Ratcliff, WC. [Ecological advantages and evolutionary limitations of aggregative multicellular development.](https://doi.org/10.1016/j.cub.2020.08.006) Current Biology (2020)
+**•**	Pentz JT, Márquez-Zacarías, P, **Bozdag, GO**, Burnetti, A, Yunker, PJ, Libby, E, & Ratcliff, WC. [Ecological advantages and evolutionary limitations of aggregative multicellular development.](https://doi.org/10.1016/j.cub.2020.08.006) Current Biology (2020)
 
 **•**	**Bozdag GO**, Ono J, Denton J, Karakoc E, Hunter N, Leu JY, and Greig D. [Engineering recombination between diverged yeast species reveals speciation genes.](https://doi.org/10.1101/755165) BioRxiv (2019) 
 
@@ -35,6 +43,6 @@ permalink: /publications/
 
 **•**	Erbasol I, **Bozdag GO**, Koc A, Pedas P, Karakaya HC. [Characterization of two genes encoding metal tolerance proteins from Beta vulgaris subspecies maritima that confers manganese tolerance in yeast.](https://link.springer.com/article/10.1007/s10534-013-9658-7) Biometals (2013) 
 
-**•**	Atik, AE, **Bozdag, GO**, Akinci, E, Kaya, A, Koç, A, Yalcin, T. and Karakaya, HÇ. [Proteomic changes during boron tolerance in barley (Hordeum vulgare) and the role of vacuolar proton-translocating ATPase subunit E.](https://doi.org/10.3906/bot-1007-29 ) Turkish Journal of Botany (2011) 
+**•**	Atik AE, **Bozdag GO**, Akinci E, Kaya A, Koç A, Yalcin T. and Karakaya HÇ. [Proteomic changes during boron tolerance in barley (Hordeum vulgare) and the role of vacuolar proton-translocating ATPase subunit E.](https://doi.org/10.3906/bot-1007-29 ) Turkish Journal of Botany (2011) 
 
 **•**	**Bozdag GO**, Uluisik I, Gulculer GS, Karakaya HC, Koc A. [Roles of ATR1 paralogs YMR279c and YOR378w in boron stress tolerance.](doi.org/10.1016/j.bbrc.2011.05.080) Biochem Biophys Res Commun (2011)
