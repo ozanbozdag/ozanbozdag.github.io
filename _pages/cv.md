@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Full CV can be found here.
+Full CV can be found [here]({{ ozanbozdag.github.io }}/files/VC.pdf).
 
 Work experience
 ======
