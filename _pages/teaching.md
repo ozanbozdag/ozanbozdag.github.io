@@ -15,7 +15,7 @@ permalink: /teaching/
   {% include archive-single.html %}
 {% endfor %}
 
-I teach undergraduate and graduate-level courses at Georgia Tech, receiving effectiveness scores of 4.7 or above (out of 5) from student evaluations, which earned me a place on the CIOS Honor Roll, "recognizing faculty celebrated by students for outstanding teaching and educational impact".
+I regularly teach undergraduate and graduate-level courses at Georgia Tech, consistently receiving effectiveness scores of 4.7 or above (out of 5) in student evaluations. This performance has earned me a place on the CIOS Honor Roll, which recognizes faculty celebrated by students for outstanding teaching and educational impact.
 
 **•**	**Evolutionary Biology** (BIOS 3600 / BIOL 6600)
 
