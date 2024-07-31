@@ -31,7 +31,7 @@ Additionally, I am interested in understanding the genetic mechanisms of reprodu
 
 By overcoming this barrier, we produced viable, euploid hybrid gametes with recombinant genomes from highly diverged parents. This discovery not only advances our understanding of speciation but also provides a valuable tool for yeast researchers. It enables the creation of hybrid strains with novel properties, facilitates trait mapping across species, and opens new possibilities for both basic research and biotechnology applications.
 
-Please see our review paper on this topic: 
+Please see our review paper on this topic: [Evolution and Molecular Bases of Reproductive Isolation](https://doi.org/10.1016/j.gde.2022.101952)
 
 **Press coverage about our work**
 
