@@ -15,7 +15,7 @@ permalink: /teaching/
   {% include archive-single.html %}
 {% endfor %}
 
-I teach undergraduate and graduate-level courses at Georgia Tech.
+I teach undergraduate and graduate-level courses at Georgia Tech:
 
 **•**	**Evolutionary Biology** (BIOS 3600 / BIOL 6600)
 
@@ -34,3 +34,10 @@ Optional textbooks:
 This course is designed to help students develop their oral and poster presentation skills. Students will learn how to effectively engage their audience when presenting scientific topics, as well as how to present and discuss their own research results critically. In addition, students will learn how to think critically and provide constructive feedback on their classmates' presentations. Although the course focuses on improving students' ability to give engaging talks on research projects, the skills they will develop are applicable to a wide range of future careers.
 
 In the first weeks of the course, we cover a range of topics, including how to structure a talk, prepare effective slides, analyze examples of well-structured talks, deliver a good talk, and construct an effective poster presentation.
+
+**•** **Microbiology Lab** (BIOS 3381)
+
+This lab is designed to explore commonly used microbiological techniques, such as field sampling,
+enumeration and cultivation of microorganisms, targeted enrichment and isolation techniques, determinations
+of microbial growth, antibiotic resistance, antibacterial potential, DNA extraction, next generation sequencing,
+and bioinformatic analyses.
