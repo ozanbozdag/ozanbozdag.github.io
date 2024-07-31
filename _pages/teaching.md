@@ -35,5 +35,4 @@ This course is designed to help students develop their oral and poster presentat
 
 This lab is designed to explore commonly used microbiological techniques, such as field sampling,
 enumeration and cultivation of microorganisms, targeted enrichment and isolation techniques, determinations
-of microbial growth, antibiotic resistance, antibacterial potential, DNA extraction, next generation sequencing,
-and bioinformatic analyses.
+of microbial growth, antibiotic resistance, antibacterial potential, DNA extraction, next generation sequencing, and bioinformatic analyses.
