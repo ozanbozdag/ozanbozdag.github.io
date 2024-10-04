@@ -40,7 +40,7 @@ Please see our review paper on this topic: [Evolution and Molecular Bases of Rep
   •	National Geographic: <br />
 [Evolving globs of yeast may unlock mysteries of multicellular life](https://www.nationalgeographic.co.uk/science-and-technology/2021/09/evolving-globs-of-yeast-may-unlock-mysteries-of-multicellular-life) <br />
   • The New York Times: <br />
-[An experiment repeated 600 times finds hints to evolution's secrets](https://www.nytimes.com/2023/05/10/science/yeast-evolution-cells-snowflakes.html) <br />
+[An experiment repeated 600 times finds hints to evolution's secrets](https://archive.is/1yCVn) <br />
   • Science Daily: <br />
 [Did Earth's early rise in oxygen help multicellular life evolve?](https://www.sciencedaily.com/releases/2021/05/210518205459.htm) <br />
   •	Quanta Magazine: <br />
