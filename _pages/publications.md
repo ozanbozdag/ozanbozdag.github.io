@@ -15,7 +15,7 @@ permalink: /publications/
   {% include archive-single.html %}
 {% endfor %}
 
-**•** Tong K, Datta S. et al., **Bozdag GO** & Ratcliff WC. [Whole-genome duplication in the Multicellularity Long Term Evolution Experiment.](https://doi.org/10.1101/2024.04.18.588554) bioRxiv (2024)
+**•** Tong K, Datta S. et al., **Bozdag GO** & Ratcliff WC. [Genome duplication in a long-term multicellularity evolution experiment.](https://doi.org/10.1038/s41586-025-08689-6) Nature (2025)
 
 **•** Pineau RM, et al., Ratcliff WC & **Bozdag GO**. [Experimental evolution of multicellularity via cuboidal cell packing in fission yeast.](https://doi.org/10.1093/evlett/qrae024) Evolution Letters (2024)
 
