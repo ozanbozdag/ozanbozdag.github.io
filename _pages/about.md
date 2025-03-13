@@ -33,7 +33,7 @@ Here is a research highlight about key aspects of this work, written by Or Shale
 
 **Other research:**
 
-Apart from this work, I am interested in understanding the genetic mechanisms of reproductive isolation and species formation in yeast. In a key study, we discovered that repressing just two genes (SGS1 and MSH2) during meiosis dramatically increased hybrid fertility between two diverged yeast species, Saccharomyces cerevisiae and S. paradoxus. This finding demonstrates that anti-recombination is the principal cause of hybrid sterility between these species. By overcoming this barrier, we produced viable, euploid hybrid gametes with recombinant genomes from highly diverged parents, advancing our understanding of speciation and providing a valuable tool for yeast researchers.
+Apart from this work, I am interested in understanding the genetic mechanisms of reproductive isolation and species formation in yeast. In a [key study](https://doi.org/10.1016/j.cub.2020.12.038), we discovered that repressing just two genes (SGS1 and MSH2) during meiosis dramatically increased hybrid fertility between two diverged yeast species, Saccharomyces cerevisiae and S. paradoxus. This finding demonstrates that anti-recombination is the principal cause of hybrid sterility between these species. By overcoming this barrier, we produced viable, euploid hybrid gametes with recombinant genomes from highly diverged parents, advancing our understanding of speciation and providing a valuable tool for yeast researchers.
 
 Here is our review paper on this topic: [Evolution and Molecular Bases of Reproductive Isolation](https://doi.org/10.1016/j.gde.2022.101952)
 
