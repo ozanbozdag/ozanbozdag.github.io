@@ -36,7 +36,7 @@ While the MuLTEE does not recapitulate the exact historical path of multicellula
 
 Furthermore, the MuLTEE is not only an experiment about how yeast could have evolved multicellular individuals but also a long-term evolution experiment of whole-genome duplication, aneuploidy, metabolic divergence (through fermentation vs respiration vs mixotrophy), and reductive evolution of mitochondria (akin to mitochondrion-related organelles or [MROs](https://doi.org/10.1016/j.cub.2016.04.032)). 
 
-In conclusion, this experiment is likely to generate more exciting research, which I am super excited to see by continuing it for the a decade and beyond.
+In conclusion, this experiment is likely to generate more exciting research, which I am super excited to see by continuing it for the decade and beyond.
 
 Here is a research highlight about key aspects of this work, written by Or Shalev and colleagues: [Replaying the Evolution of Multicellularity](https://doi.org/10.1016/j.tree.2023.07.007)
 
