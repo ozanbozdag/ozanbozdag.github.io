@@ -34,7 +34,7 @@ Recently, we discovered that yeast in the MuLTEE have undergone whole-genome dup
 
 While the MuLTEE does not recapitulate the exact historical path of multicellular evolution, it showcases the first real-time evidence of the transition from single-celled individuals to multicellular individuals with novel cell biology, biophysics, and cluster size. These changes occur at the cost of single-cell fitness and lead to the entrenchment of the multicellular phenotype. Furthermore, the MuLTEE is not only an experiment about how yeast could have evolved multicellular individuals de novo but also a long-term evolution experiment of whole-genome duplication, aneuploidy, and reductive evolution of mitochondria, akin to mitochondrion-related organelles (MROs). This experiment is likely to generate more exciting research, which I am super excited to see by continuing it for the next 1-2 decades.
 
-Here is a research highlight about key aspects of this work, written by Or Shalev and colleagues: Replaying the Evolution of Multicellularity
+Here is a research highlight about key aspects of this work, written by Or Shalev and colleagues: [Replaying the Evolution of Multicellularity](https://doi.org/10.1016/j.tree.2023.07.007)
 
 **Other research:**
 
