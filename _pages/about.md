@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-In 2018, I started a project that is now known as the Multicellularity Long-Term Evolution Experiment (MuLTEE), which explores the very early steps of multicellular adaptation. Now at 1500+ days (7,500 generations), this longest-running evolution experiment exploring this major transition has generated various research papers and thesis chapters for scientists at the Ratcliff Lab, Georgia Tech, and universities outside of the US. Below is a short summary of the idea that started this long-term evolution experiment and a few topics it explores.
-
-**The Multicellularity Long-Term Evolution Experiment (MuLTEE)**
-
-My main research explores the evolutionary transition from unicellular organisms into multicellular organisms by experimental evolution. Early work on the evolution of multicellularity focused on group formation, including studies on 'snowflake' yeast where single-celled yeast evolved multicellular clusters. However, these [studies](https://doi.org/10.1073/pnas.1115323109) were kept short as the size of snowflake yeast, a key trait for the transition from simple cell clusters to integrated multicellular individuals, remained constrained despite strong daily selection for size.
+In 2018, I started a project that is now known as **the Multicellularity Long-Term Evolution Experiment (MuLTEE)**, which explores the very early steps of multicellular adaptation. Now at 1500+ days (7,500 generations), this longest-running evolution experiment exploring this major transition has generated various research papers and thesis chapters for scientists at the Ratcliff Lab, Georgia Tech, and universities outside of the US. Below is a short summary of the idea that started this long-term evolution experiment and a few topics it explores.
 
 **Low-oxygen is a key limitation in snowflake yeast size evolution:**
+
+Early work on the evolution of multicellularity focused on group formation, including studies on 'snowflake' yeast where single-celled yeast evolved multicellular clusters. However, these [studies](https://doi.org/10.1073/pnas.1115323109) were kept short as the size of snowflake yeast, a key trait for the transition from simple cell clusters to integrated multicellular individuals, remained constrained despite strong daily selection for size.
 
 In 2018, as I transitioned from my PhD work to postdoctoral research at [Will Ratcliff's Lab](https://ratclifflab.biosci.gatech.edu), I came up with an idea to address the key issue of why previous work with this model system was limited to microscopic size. Inspired by [Andy Knoll's](https://www.oeb.harvard.edu/people/andrew-h-knoll) papers and leveraging my diverse experience on yeast metabolism from [Duncan Greig's](https://profiles.ucl.ac.uk/4336) Lab, I designed this experiment to test the constraints on the evolution of multicellular size in snowflake yeast under different oxygen and metabolic conditions.
 
