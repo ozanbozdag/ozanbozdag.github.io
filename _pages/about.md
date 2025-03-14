@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-In 2018, I started a project that is now known as the **Multicellularity Long-Term Evolution Experiment (MuLTEE)**, which explores the very early steps of multicellular adaptation. Now at 1500+ days (7,500 generations), MuLTEE is the longest-running evolution experiment on nascent multicellularity and has generated various research papers and thesis chapters for scientists at the Ratcliff Lab, Georgia Tech, and universities outside of the US. Below is a short summary of the idea that started this long-term evolution experiment and a few topics it explores.
+In 2018, I started a project that is now known as the **Multicellularity Long-Term Evolution Experiment (MuLTEE)**, which explores the very early steps of multicellular adaptation. Now at 1500+ days (7,500 generations), MuLTEE is the longest-running evolution experiment on nascent multicellularity and has generated various research papers and thesis chapters for scientists at the Ratcliff Lab, Georgia Tech, and universities outside of the US. 
+
+Below is a short summary of the idea that started the MuLTEE and a few topics it explores.
 
 **Low-oxygen is a key limitation in snowflake yeast size evolution:**
 
